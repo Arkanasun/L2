@@ -49,9 +49,9 @@ position: relative;
 margin: auto;
 margin-top: 20px;}
 
-.flex-container{display: flex;
-flex-direction: row;
-box-sizing: border-box;
+.d-flex{display: flex;
+flex-direction: row;}
+.con_tainer{box-sizing: border-box;
 position: relative;}
 
 .wo{
@@ -96,3 +96,5 @@ font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.176px;}
+
+.poi{display: block;}
