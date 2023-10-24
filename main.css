@@ -1,0 +1,98 @@
+*{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;}
+body{background-color: rgba(237, 230, 221, 1);}
+header{padding: 40px 0; margin-bottom: 80px; height: 112p}
+.container{width: 1200px; height: ;
+height: 380px;
+background-color: #fff;
+position: relative;
+bottom: 510px;
+margin-left: auto; margin-right: auto;}
+.sectone{padding-bottom: 196px; box-sizing: border-box}
+#navigation{display: flex; list-style: none;}
+.item_link{text-decoration: none;color: #1E1928;
+font-family: Inter;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 153.846% */"}
+
+.cent{color: #1E1928;
+text-align: center;
+font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 42px; /* 131.25% */
+padding-top: 80px;
+padding-bottom: 28px;}
+.hub{color: rgba(30, 25, 40, 0.80);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+letter-spacing: 0.252px;
+padding-bottom: 140px;
+padding-left: 273px;
+padding-right: 273px;}
+.buton{width: 142px;
+height: 40px;
+flex-shrink: 0;
+ border-radius: 9999px;
+border: 1px solid #1E1928;   
+display: block;
+position: relative;
+margin: auto;
+margin-top: 20px;}
+
+.flex-container{display: flex;
+flex-direction: row;
+box-sizing: border-box;
+position: relative;}
+
+.wo{
+color: #1E1928;
+font-family: Roboto;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 58px;
+position: relative;
+bottom: 252px; left: 120px;}
+.weird{list-style: none; max-width: 575px;
+position: relative;
+left: 640px;
+bottom: 252px;
+box-sizing: border-box;}
+
+h3{padding-bottom: 10px;}
+.first{list-style-image: url(images/Frame1.png);
+color: rgba(30, 25, 40, 0.80);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.176px;
+padding-bottom: 80px;}
+.second{list-style-image: url(images/Frame2.png);
+color: rgba(30, 25, 40, 0.80);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.176px;
+padding-bottom: 80px;}
+.third{list-style-image: url(images/Frame3.png);
+color: rgba(30, 25, 40, 0.80);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.176px;}
